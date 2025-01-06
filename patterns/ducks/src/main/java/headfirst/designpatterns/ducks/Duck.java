@@ -5,8 +5,8 @@ import headfirst.designpatterns.ducks.Behaviours.QuackBehaviour;
 
 public abstract class Duck {
 
-	FlyBehaviour flyBehaviour;
-	QuackBehaviour quackBehaviour;
+	protected FlyBehaviour flyBehaviour;
+	protected QuackBehaviour quackBehaviour;
 
 	public Duck() {}
 
