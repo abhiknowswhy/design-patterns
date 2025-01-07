@@ -5,3 +5,4 @@ These examples are currently based from the head first design patterns book.
 
 Folders vs patterns
 - Strategy pattern -> [patterns/ducks](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/ducks)
+- Observer pattern -> [patterns/observer](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/observer)
