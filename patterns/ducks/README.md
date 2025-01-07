@@ -4,6 +4,8 @@ This folder contains an example of `strategy pattern` - through the example of a
 
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it
 
+> Output of the code:
+
 ```
 I'm a real Mallard duck
 Quack!!
