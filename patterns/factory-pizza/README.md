@@ -9,6 +9,10 @@ The Factory Method pattern lets subclasses decide which class to instantiate. Be
 
 This method is a direct derivative of "Dependency inversion principle" - which says "Depend upon abstractions. Do not depend upon concrete classes." In simpler words, it suggests that our high-level components should not depend on our low-level components; rather, they should both depend on abstractions and our Factory pattern allows us to do just that.
 
+![alt text](images/image1.png)
+
+![alt text](images/image2.png)
+
 > Output of the code:
 
 ```
