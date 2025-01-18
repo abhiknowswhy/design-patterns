@@ -4,6 +4,9 @@ This folder contains an example of `Observer pattern` - through the example of a
 
 The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically
 
+![alt text](images/image1.png)
+
+![alt text](images/image2.png)
 
 > Output of the code:
 

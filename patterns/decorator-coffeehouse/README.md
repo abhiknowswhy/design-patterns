@@ -4,6 +4,10 @@ This folder contains an example of `decorator pattern` - through the example of 
 
 Decorators attach additional responsibilities to objects dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
+![alt text](images/image2.png)
+
+![alt text](images/image1.png)
+
 > Output of the code:
 
 ```
