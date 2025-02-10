@@ -9,7 +9,7 @@ Folders vs patterns
 - Decorator pattern -> [patterns/decorator-coffeehouse](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/decorator-coffeehouse)
 - Factory pattern -> [patterns/factory-pizza](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/factory-pizza)
 - Abstract Factory pattern -> [patterns/abstract-factory-pizza](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/abstract-factory-pizza)
-- Singleton pattern -> 
+- Singleton pattern -> [patterns/singleton-chocolateplant](https://github.com/abhiknowswhy/design-patterns/tree/main/patterns/singleton-chocolateplant)
 
 Reference: 
 - Head first design patterns repo -> https://github.com/bethrobson/Head-First-Design-Patterns
